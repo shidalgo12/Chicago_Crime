@@ -1,0 +1,7 @@
+Crime Data
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
+
+CPD Crime Definitions
+https://data.cityofchicago.org/Public-Safety/Chicago-Police-Department-Illinois-Uniform-Crime-R/c7ck-438e/data
+http://gis.chicagopolice.org/clearmap_crime_sums/crime_types.html#N05
+
