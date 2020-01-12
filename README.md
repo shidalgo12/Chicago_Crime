@@ -21,7 +21,6 @@ Is using a full past decade of data the proper reference for our linear regressi
 
 Do community areas with lower levels of eduction see higher homicides?
 
-
 Datasets to Be Used:
 Chicago Property values 2014 – Present
 https://www.zillow.com/howto/api/APIOverview.htm-Chicago 
