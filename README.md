@@ -23,10 +23,10 @@ Do community areas with lower levels of eduction see higher homicides?
 
 
 Datasets to Be Used:
-Chicago Property values 2014 – Present
-https://www.zillow.com/howto/api/APIOverview.htm-Chicago 
+Selected Sociological Indicators
+https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
 
-Crime Rates 2014 – Present
+Crime Rates 2010 – 2019
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data 
 
 Breakdown of Tasks:
