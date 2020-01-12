@@ -22,17 +22,9 @@ Is using a full past decade of data the proper reference for our linear regressi
 Do community areas with lower levels of eduction see higher homicides?
 
 Datasets to Be Used:
-Chicago Property values 2014 – Present
-https://www.zillow.com/howto/api/APIOverview.htm-Chicago 
+Selected Sociological Indicators
+https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
 
-Crime Rates 2014 – Present
+Crime Rates 2010 – 2019
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data 
 
-Breakdown of Tasks:
-Clean the data and filter for only those years we are interested in
-
-Demonstrate that there is an inverse relationship between crime & property values (make sure we are right)
-
-Sort data to answer the discrete questions above
-
-Use linear regressions, standard deviations, line graphs, and google maps to chart data-Select specific neighborhoods to highlight
