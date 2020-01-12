@@ -29,11 +29,3 @@ https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioe
 Crime Rates 2010 – 2019
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data 
 
-Breakdown of Tasks:
-Clean the data and filter for only those years we are interested in
-
-Demonstrate that there is an inverse relationship between crime & property values (make sure we are right)
-
-Sort data to answer the discrete questions above
-
-Use linear regressions, standard deviations, line graphs, and google maps to chart data-Select specific neighborhoods to highlight
