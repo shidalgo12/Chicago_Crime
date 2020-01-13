@@ -1,4 +1,4 @@
-# Chicago_Crime
+﻿# Chicago_Crime
 
 Chicago Crime and Community Education over the Past Decade
 Team Members: Cindy Wagner, Stephanie Hidalgo, Nathaniel Al-Najjar
@@ -27,4 +27,8 @@ https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioe
 
 Crime Rates 2010 – 2019
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data 
+
+Crime Type Categories: Definition & Description
+http://gis.chicagopolice.org/clearmap_crime_sums/crime_types.html#N05
+
 
