@@ -3,7 +3,7 @@
 Chicago Crime and Community Education over the Past Decade
 Team Members: Cindy Wagner, Stephanie Hidalgo, Nathaniel Al-Najjar
 
-Urban crime has been at the forefront of the national conversation in recent years. We are interested in looking at some specific questions underneath this broad topic in Chicago over the last 10 years. We expect to find a correlation between Chicago crime and the level of education  that will give us a perspective on shifting property values, and have found the City of Chicago’s crime database. 
+Urban crime has been at the forefront of the national conversation in recent years. We are interested in looking at some specific questions underneath this broad topic in Chicago over the last 10 years. We expect to find a correlation between Chicago crime and the level of education  in a given area. Fortunately, all of this data is publicly available on the City of Chicago's data website.
 
 Research Questions:
 
