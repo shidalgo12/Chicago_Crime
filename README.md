@@ -17,7 +17,7 @@ How has the rate of homicides fluctuated over the years?
 
 Using linear regressions what can we predict the number of homicides will be?
 
-Is using a full past decade of data the proper reference for our linear regression? Given the national crie wave in 2016, should we only use data since then for a more accurate analysis?
+Is using a full past decade of data the proper reference for our linear regression? Given the national crime wave in 2016, should we only use data since then for a more accurate analysis?
 
 Do community areas with lower levels of eduction see higher homicides?
 
